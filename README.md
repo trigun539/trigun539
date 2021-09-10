@@ -1,4 +1,4 @@
-## I'm a Husband, Father, Developer, and Teacher!!
+## I'm a Husband, Father, Developer, and Tech Lover!!
 
 - 🌱 I’m currently learning as much as I can 😅
 - 🥅 2021 Goals: Contribute more to Open Source projects
