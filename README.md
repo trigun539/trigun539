@@ -33,16 +33,9 @@
 
 ---
 
-[![trigun539's GitHub stats](https://github-readme-stats.vercel.app/api?username=trigun539)](https://github.com/trigun539/github-readme-stats)
+[![trigun539's GitHub stats](https://github-readme-stats.vercel.app/api?username=trigun539&show_icons=true&theme=onedark)](https://github.com/trigun539/github-readme-stats)
 
 ---
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="trigun539's GitHub Stats" src="https://github-readme-stats.trigun539.vercel.app/api?username=trigun539&show_icons=true&hide_border=true" />
-
-</details>
 
 [website]: https://eperez.io
 [twitter]: https://twitter.com/trigun539
