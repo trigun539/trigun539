@@ -33,7 +33,7 @@
 
 ---
 
-[![trigun539's GitHub stats](https://github-readme-stats.vercel.app/api?username=trigun539&show_icons=true&theme=onedark)](https://github.com/trigun539/github-readme-stats)
+[![trigun539's GitHub stats](https://github-readme-stats.vercel.app/api?username=trigun539&show_icons=true&theme=tokyonight)](https://github.com/trigun539/github-readme-stats)
 
 ---
 
