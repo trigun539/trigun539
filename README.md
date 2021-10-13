@@ -1,12 +1,16 @@
-## I'm a Husband, Father, Developer, and Tech Lover!!
+## Hi, I'm David. A Software Engineer with a pasion for new technology.
 
 - 🌱 I’m currently learning as much as I can 😅
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play soccer! ⚽️
 
+img[src$="colorize"] {
+  color: blue;
+}
+
 ### Connect with me:
 
-[<img align="left" alt="eperez.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="eperez.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg?style=colorize" />][website]
 [<img align="left" alt="trigun539 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="eperez539 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="trigun539 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
